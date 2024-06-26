@@ -1,6 +1,6 @@
 def convertir_a_minusculas(texto):
     """
-    Convierte una cadena de texto a minúsculas sin usar el método .lower().
+    Convierte una cadena de texto a minúsculas.
     
     Args:
     texto (str): La cadena de texto que se desea convertir.
@@ -19,7 +19,7 @@ def convertir_a_minusculas(texto):
 
 def es_alfanumerico(caracter):
     """
-    Verifica si un carácter es alfanumérico sin usar el método .isalnum().
+    Verifica si un carácter es alfanumérico.
     
     Args:
     caracter (str): El carácter que se desea verificar.
